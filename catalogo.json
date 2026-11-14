@@ -1,0 +1,1563 @@
+{
+ "generado": "Extraído del artefacto sala-de-escucha-last-call el 14/11/2026",
+ "totalTomas": 161,
+ "grupos": [
+  {
+   "grupo": "Sleep Tight",
+   "publicada": true,
+   "tomas": [
+    {
+     "id": "sleep-tight-t1",
+     "etiqueta": "Toma oficial T1",
+     "duracion": "2:52",
+     "url": null,
+     "local": true
+    }
+   ],
+   "portada": "portada-sleep-tight.jpg",
+   "spotify": "https://open.spotify.com/track/4ZXgGz85mxeGNxLsi260Kt"
+  },
+  {
+   "grupo": "2 A.M.",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "2am-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:52",
+     "url": null,
+     "local": true
+    },
+    {
+     "id": "2am-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:51",
+     "url": null,
+     "local": true
+    }
+   ]
+  },
+  {
+   "grupo": "2 A.M. — Prueba rápida (145 bpm)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "2am-fast-t1",
+     "etiqueta": "Toma 1",
+     "url": "https://suno.com/song/8504e8ef-ad95-4f5f-81c2-aa4773041ef5",
+     "duracion": null
+    },
+    {
+     "id": "2am-fast-t2",
+     "etiqueta": "Toma 2",
+     "url": "https://suno.com/song/42ed9930-4d12-4177-ba64-6422be4f28c4",
+     "duracion": null
+    }
+   ]
+  },
+  {
+   "grupo": "Wide Awake",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "wide-awake-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:02",
+     "url": null,
+     "local": true
+    },
+    {
+     "id": "wide-awake-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:49",
+     "url": null,
+     "local": true
+    },
+    {
+     "id": "wide-awake-t3",
+     "etiqueta": "Toma 3",
+     "duracion": "1:36",
+     "url": null,
+     "local": true
+    },
+    {
+     "id": "wide-awake-t4",
+     "etiqueta": "Toma 4",
+     "duracion": "1:44",
+     "url": null,
+     "local": true
+    }
+   ],
+   "portada": "portada-wide-awake.jpg"
+  },
+  {
+   "grupo": "Wide Awake — Prueba rápida (148 bpm)",
+   "publicada": false,
+   "portada": "portada-wide-awake.jpg",
+   "tomas": [
+    {
+     "id": "wide-awake-fast-t1",
+     "etiqueta": "Toma 1",
+     "url": "https://suno.com/song/86e2c0c3-c638-4d9f-8171-44f68521f1e7",
+     "duracion": null
+    },
+    {
+     "id": "wide-awake-fast-t2",
+     "etiqueta": "Toma 2",
+     "url": "https://suno.com/song/26aa25a2-0da7-40fc-ba60-9bc50808cb7a",
+     "duracion": null
+    }
+   ]
+  },
+  {
+   "grupo": "Red Moon",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:52",
+     "url": null,
+     "local": true
+    },
+    {
+     "id": "red-moon-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:01",
+     "url": null,
+     "local": true
+    }
+   ]
+  },
+  {
+   "grupo": "Red Moon — Prueba rápida (142 bpm)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-fast-t1",
+     "etiqueta": "Toma 1",
+     "url": "https://suno.com/song/43e1953b-b71e-44d9-8739-764ff427a40e",
+     "duracion": null
+    },
+    {
+     "id": "red-moon-fast-t2",
+     "etiqueta": "Toma 2",
+     "url": "https://suno.com/song/67d410c3-88cb-4b1a-9516-295fd4cf82d0",
+     "duracion": null
+    }
+   ]
+  },
+  {
+   "grupo": "2 A.M. (v2)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "2am-v2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:43",
+     "url": "https://suno.com/song/41fc517c-1f61-4f8b-99e7-e6f07652a854"
+    },
+    {
+     "id": "2am-v2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:47",
+     "url": "https://suno.com/song/4e789ac3-147a-4535-ad70-3f3a2a09f61f"
+    }
+   ]
+  },
+  {
+   "grupo": "Wide Awake (v2)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "wide-awake-v2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:05",
+     "url": "https://suno.com/song/68c0c69a-73bd-4cfa-ad38-781690b6d1ef"
+    },
+    {
+     "id": "wide-awake-v2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:00",
+     "url": "https://suno.com/song/17998832-b11f-48e6-a1a0-bf1f52ac2eea"
+    }
+   ],
+   "portada": "portada-wide-awake.jpg"
+  },
+  {
+   "grupo": "Red Moon (v2)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-v2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:40",
+     "url": "https://suno.com/song/4cb81957-af98-42d3-b7d9-338bcd70a21b"
+    },
+    {
+     "id": "red-moon-v2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:43",
+     "url": "https://suno.com/song/39527b67-ad6d-4bca-9e4a-1f72a4558bc4"
+    }
+   ]
+  },
+  {
+   "grupo": "2 A.M. (Stellar Cut)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "2am-stellar-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "0:55",
+     "url": "https://suno.com/song/4578653d-31b7-4373-a3a6-23e8bdd79c66"
+    },
+    {
+     "id": "2am-stellar-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "0:50",
+     "url": "https://suno.com/song/04968204-eb7e-4169-8b0c-2460bde802ec"
+    }
+   ]
+  },
+  {
+   "grupo": "Wide Awake (Stellar Cut)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "wide-awake-stellar-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:33",
+     "url": "https://suno.com/song/995dede6-d68a-42d4-bcfb-d4e21cc62400"
+    },
+    {
+     "id": "wide-awake-stellar-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:04",
+     "url": "https://suno.com/song/fa1d7fd8-4b91-4aed-b4e4-75a886e5f867"
+    }
+   ],
+   "portada": "portada-wide-awake.jpg"
+  },
+  {
+   "grupo": "Red Moon (Stellar Cut)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-stellar-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "0:55",
+     "url": "https://suno.com/song/688ab33c-fed2-4f78-897e-6dafc3b0c29a"
+    },
+    {
+     "id": "red-moon-stellar-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "0:59",
+     "url": "https://suno.com/song/1de7597b-7b7f-4895-b80f-94dd0bd25ea7"
+    }
+   ]
+  },
+  {
+   "grupo": "2 A.M. (Stellar Cut Full)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "2am-stellar-full-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:11",
+     "url": "https://suno.com/song/05497581-7000-43ba-962c-fbe3de72aa2e"
+    },
+    {
+     "id": "2am-stellar-full-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:21",
+     "url": "https://suno.com/song/d93f3f02-60c4-433e-a135-0f14b3276f85"
+    }
+   ]
+  },
+  {
+   "grupo": "Wide Awake (Stellar Cut Full)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "wide-awake-stellar-full-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:51",
+     "url": "https://suno.com/song/fbc980fa-22d0-4f10-b3e4-d427cdc188d6"
+    },
+    {
+     "id": "wide-awake-stellar-full-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:54",
+     "url": "https://suno.com/song/d988514d-1c50-479e-ba7a-b0b48ad4f5ba"
+    }
+   ],
+   "portada": "portada-wide-awake.jpg"
+  },
+  {
+   "grupo": "Red Moon (Stellar Cut Full)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-stellar-full-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:44",
+     "url": "https://suno.com/song/a3b2fc1a-9a34-40a0-a91c-47b572255a83"
+    },
+    {
+     "id": "red-moon-stellar-full-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:52",
+     "url": "https://suno.com/song/e38d04e2-b1fa-4b19-b9b9-53ac1414b04a"
+    }
+   ]
+  },
+  {
+   "grupo": "2 A.M. (Stellar Cut Full v2)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "2am-stellar-fullv2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/8e221f4f-4041-4eb0-b108-9babea819484"
+    },
+    {
+     "id": "2am-stellar-fullv2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/94223837-e32b-46fb-8b7f-2ac822d1f4b0"
+    }
+   ]
+  },
+  {
+   "grupo": "Wide Awake (Stellar Cut Full v2)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "wide-awake-stellar-fullv2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/4fea32db-5477-4ced-8e68-802f16bb018a"
+    },
+    {
+     "id": "wide-awake-stellar-fullv2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/qyzdE2ShDRMkGrhb"
+    }
+   ],
+   "portada": "portada-wide-awake.jpg"
+  },
+  {
+   "grupo": "Red Moon (Stellar Cut Full v2)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-stellar-fullv2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/kuvYIbekZFf1YNZu"
+    },
+    {
+     "id": "red-moon-stellar-fullv2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/UYBdMuFJUhhIUy5o"
+    }
+   ]
+  },
+  {
+   "grupo": "Static",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "static-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/046f6439-cad0-48db-b761-f1115fcfc6c5"
+    },
+    {
+     "id": "static-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/669b4d17-8569-460e-899c-b031f97aede6"
+    }
+   ]
+  },
+  {
+   "grupo": "Porcelain",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "porcelain-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/cc9aff99-0759-43ce-97ee-3692ffa761f0"
+    },
+    {
+     "id": "porcelain-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/8b27dfb1-bcfc-4450-a3f6-44c93aa9c4df"
+    }
+   ]
+  },
+  {
+   "grupo": "Ultraviolet",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "ultraviolet-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/0e4e9552-253e-4a08-a2ec-170358277c7c"
+    },
+    {
+     "id": "ultraviolet-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:31",
+     "url": "https://suno.com/song/864125e8-ce53-4dc7-83b4-0bf9959e1f50"
+    }
+   ]
+  },
+  {
+   "grupo": "Red Moon (Nueva)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "red-moon-nueva-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/song/eba81790-7ba7-4ea4-82f8-4699d535dc63"
+    },
+    {
+     "id": "red-moon-nueva-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/2ad3be1e-f4fb-4683-9f4b-db40c77a09fc"
+    }
+   ]
+  },
+  {
+   "grupo": "On Read",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "on-read-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/12f88391-c4f2-461f-a50c-9cefa3b5c7a0"
+    },
+    {
+     "id": "on-read-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:07",
+     "url": "https://suno.com/song/7191aea3-5620-498b-81a8-9b936eedddef"
+    },
+    {
+     "id": "on-read-reintento-t1",
+     "etiqueta": "Toma 1 (reintento)",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/45e23291-b5f2-400b-84ac-d2cdc0accabe"
+    },
+    {
+     "id": "on-read-reintento-t2",
+     "etiqueta": "Toma 2 (reintento)",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/deae369b-6fe0-4c72-a1c3-163a1ab6990b"
+    }
+   ]
+  },
+  {
+   "grupo": "Plastic Halo",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "plastic-halo-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/5304eff4-299f-4ae2-ad55-0ce4b86449e7"
+    },
+    {
+     "id": "plastic-halo-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/d27c4460-7905-47ba-96db-9a89cf62eb20"
+    }
+   ]
+  },
+  {
+   "grupo": "Paper Mask",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "paper-mask-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/627b93db-0484-4dcc-852e-751fb5695ec1"
+    },
+    {
+     "id": "paper-mask-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:31",
+     "url": "https://suno.com/song/e1f2a065-99a9-49e1-99d7-2a64884e1297"
+    }
+   ]
+  },
+  {
+   "grupo": "10 Minutes",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "10-minutes-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/song/9bb6a82f-c056-4fc6-896b-6f878c7640e4"
+    },
+    {
+     "id": "10-minutes-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/e99ccb82-05c1-4dea-8396-f0143512eb2a"
+    }
+   ]
+  },
+  {
+   "grupo": "Static (Nueva)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "static-nueva-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/da3fb925-d1d1-4d47-88bb-542176e7f2bd"
+    },
+    {
+     "id": "static-nueva-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/aeb6d8d6-6db0-4c9a-ae1c-707d739017f5"
+    }
+   ]
+  },
+  {
+   "grupo": "Porcelain (Nueva)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "porcelain-nueva-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/eb9b1830-d0ef-4d61-8105-0a4f26c4dbac"
+    },
+    {
+     "id": "porcelain-nueva-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/e54d0c2a-3464-479f-b077-b25bb8d32742"
+    }
+   ]
+  },
+  {
+   "grupo": "Voltage",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "voltage-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/song/757336fe-3c06-45e3-8c38-c28d04df551a"
+    },
+    {
+     "id": "voltage-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:25",
+     "url": "https://suno.com/song/a56335a1-6156-474e-957f-7b04d469a308"
+    }
+   ]
+  },
+  {
+   "grupo": "Porcelain (Nuestra voz)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "porcelain-voz-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/b11c9e95-bc04-4855-9f19-8e4317aae6e0"
+    },
+    {
+     "id": "porcelain-voz-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:28",
+     "url": "https://suno.com/song/73019adc-916b-434a-bbe1-d2e0c0e620c2"
+    }
+   ]
+  },
+  {
+   "grupo": "My Jacket",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "my-jacket-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/0224c50b-64eb-43ba-a503-eb89ee1ba962"
+    },
+    {
+     "id": "my-jacket-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/b94e181f-7d67-4625-8ad5-57772f48c379"
+    }
+   ]
+  },
+  {
+   "grupo": "Tag, You're It (Receta Sleep Tight)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "tag-youre-it-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/cee60595-d451-42c4-85cf-f268966afc30"
+    },
+    {
+     "id": "tag-youre-it-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/7f0039f4-e277-4fa9-a53a-30249d13545e"
+    }
+   ]
+  },
+  {
+   "grupo": "Second Skin (Receta Wide Awake)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "second-skin-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/9e65a21d-e146-4358-9d47-5b837d95110d"
+    },
+    {
+     "id": "second-skin-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/f96e6ef7-3948-45ec-bfef-12e56924c87d"
+    }
+   ]
+  },
+  {
+   "grupo": "Cheap Perfume",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "cheap-perfume-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/0c8252c6-453a-446f-912d-ba96b16e3b3f",
+     "urlCorta": "https://suno.com/s/qtRWh8sxAh18Lvie"
+    },
+    {
+     "id": "cheap-perfume-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/d9324316-c11a-4667-854a-d0baae6bef79",
+     "urlCorta": "https://suno.com/s/XPxesQVeO7b6Vq7S"
+    }
+   ],
+   "receta": "Ritmo «Sleep Tight» (130 BPM, pegadizo, alto-bajo) con mundo sonoro nuevo: synth-pop oscuro de neón — sin cajita de música ni sonidos de Halloween. Gancho: «you wear her cheap perfume».",
+   "meta": "Generada en Suno el 13/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Sugar Venom",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "sugar-venom-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/e55e8460-ac01-41c7-a092-ac8f1bc43048",
+     "urlCorta": "https://suno.com/s/C5Op1GSSeT69M5Ex"
+    },
+    {
+     "id": "sugar-venom-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/song/b42db629-757c-4f6d-b110-8cba08314a89",
+     "urlCorta": "https://suno.com/s/7684D4JjQwaS1PIn"
+    }
+   ],
+   "receta": "Ritmo «Sleep Tight» (130 BPM) con mundo sonoro nuevo: pop industrial de pisotones, palmadas y percusión metálica. Gancho: «sweet like sugar, slow like venom».",
+   "meta": "Generada en Suno el 13/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Half Past You",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "half-past-you-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/b9c8b314-aafb-462e-abc3-b43c94bd2839",
+     "urlCorta": "https://suno.com/s/JdTIIm7TQhEVAa88"
+    },
+    {
+     "id": "half-past-you-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:16",
+     "url": "https://suno.com/song/3f643c6d-6283-4fb4-9671-7fa70a489739",
+     "urlCorta": "https://suno.com/s/FLFIQCCbI2ylqTal"
+    }
+   ],
+   "receta": "Ritmo «Sleep Tight» (130 BPM) con mundo sonoro nuevo: funk oscuro con slap bass y guitarra wah. Gancho: «it's half past you and I'm still awake». Ojo: la Toma 2 salió truncada a 1:16 por varianza de Suno pese a la duración fijada de 2:30 — no se regeneró; la Toma 1 (2:30) es la completa.",
+   "meta": "Generada en Suno el 13/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Second Skin (Ritmo Sleep Tight)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "second-skin-v2-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:01",
+     "url": "https://suno.com/song/0c8d4d1b-672e-404d-b93b-29eba781832c",
+     "urlCorta": "https://suno.com/s/HP4ZzYBZX8WPaKPX"
+    },
+    {
+     "id": "second-skin-v2-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/song/b3670fe2-90dc-4937-b81c-40c6c587b337",
+     "urlCorta": "https://suno.com/s/cNNBWAdIrq38Il6a"
+    }
+   ],
+   "receta": "Regeneración de «Second Skin» con letra nueva: ritmo «Sleep Tight» (130 BPM) y mundo electro-pop frío minimal, piano eléctrico helado — distinta de la «Second Skin (Receta Wide Awake)» de 122 BPM. Ojo: la Toma 1 salió de 2:01, bajo la banda habitual — no se regeneró; la Toma 2 (2:30) es la de duración completa.",
+   "meta": "Generada en Suno el 13/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Your Side of Town",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "your-side-of-town-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "1:15",
+     "url": "https://suno.com/s/MnKTjLKm49a9JcKH",
+     "fueraDeBanda": true
+    },
+    {
+     "id": "your-side-of-town-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/qUjq1aBiQoLc5Jkj"
+    }
+   ],
+   "receta": "Romance roto, forma estrófica con línea de cierre que muta; mundo: dark guitar pop de banda. Ojo: la Toma 1 salió de 1:15, más corta de lo pedido — no se regeneró; la Toma 2 (2:30) es la de duración completa.",
+   "meta": "Generada en Suno el 13/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Voicemail",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "voicemail-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/6CQefC5ACqyELbZn"
+    },
+    {
+     "id": "voicemail-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "1:19",
+     "url": "https://suno.com/s/177n1b8OhOHurY2O",
+     "fueraDeBanda": true
+    }
+   ],
+   "receta": "Amor perdido, sin coro: refrán de una línea que muta; mundo: dark pop lluvioso con piano eléctrico y cuerdas. Ojo: la Toma 2 salió de 1:19, más corta de lo pedido — no se regeneró; la Toma 1 (2:30) es la de duración completa.",
+   "meta": "Generada en Suno el 13/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "My Own Worst Enemy",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "my-own-worst-enemy-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/XI2j9HhgVfxZkCOf"
+    },
+    {
+     "id": "my-own-worst-enemy-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/ToVHyyvd39jCIK4B"
+    }
+   ],
+   "receta": "Él es su peor enemigo: pelea consigo mismo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Nobody Bet on Me",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "nobody-bet-on-me-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:28",
+     "url": "https://suno.com/s/yDVgMkSDWNmsiOPQ"
+    },
+    {
+     "id": "nobody-bet-on-me-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/inL3oBgAoEHGUP5R"
+    }
+   ],
+   "receta": "Nadie apostó por él: apostó él mismo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Neon Confession",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "neon-confession-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/U5EOPJXA9YSlO5Kg"
+    },
+    {
+     "id": "neon-confession-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/7J10UzP3BojmViJf"
+    }
+   ],
+   "receta": "De noche le confiesa al neón lo que no le dice a nadie.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Mama's Hands",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "mamas-hands-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/iXsUvYBBohwrqNA5"
+    },
+    {
+     "id": "mamas-hands-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/RCRJG86dY7cpnAtS"
+    }
+   ],
+   "receta": "Lo que él es lo construyeron las manos de su madre.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Talking to God",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "talking-to-god-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/0MRJeNwTalhGvX6K"
+    },
+    {
+     "id": "talking-to-god-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/D3XResbOpPJkfKiV"
+    }
+   ],
+   "receta": "Habla con Dios de madrugada: mitad gracias, mitad reclamo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "The Devil Pays Cash",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "the-devil-pays-cash-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/SomO5GKPmepxvMij"
+    },
+    {
+     "id": "the-devil-pays-cash-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/MgTiTs3NBZYl1grM"
+    }
+   ],
+   "receta": "El diablo paga en efectivo y puntual.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Night Shift",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "night-shift-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/aXbRh7tex74y1JW4"
+    },
+    {
+     "id": "night-shift-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/sYkbtnObhGf4yc6G"
+    }
+   ],
+   "receta": "Los que trabajan de noche y nadie les escribe canciones.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Paper Crown",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "paper-crown-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/F68XqfBzPih3v1iK"
+    },
+    {
+     "id": "paper-crown-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/FfcIn1F2o9tvb6TF"
+    }
+   ],
+   "receta": "Quiere la corona aunque sea de papel.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "10 Minutes (Nueva)",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "10-minutes-nueva-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/MiJvvwsu1bpgX6uU"
+    },
+    {
+     "id": "10-minutes-nueva-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:28",
+     "url": "https://suno.com/s/DblagdCYfmJZSpoi"
+    }
+   ],
+   "receta": "Los diez minutos más largos: un pasillo de hospital, un reloj que miente; al final la puerta se abre.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Saint With a Liar's Mouth",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "saint-liars-mouth-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/KOOJwLKvhYuDObLk"
+    },
+    {
+     "id": "saint-liars-mouth-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/HlqMxhgJnjQQyKF5"
+    }
+   ],
+   "receta": "Sonríe como un santo, pero con boca de mentiroso.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Buried You First",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "buried-you-first-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/FaIjqao0EuhlwUpv"
+    },
+    {
+     "id": "buried-you-first-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/FdQfxHxMBAVQoOnC"
+    }
+   ],
+   "receta": "El «tú» es su antiguo yo: no serás mi muerte, te enterré primero.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Till Somebody Breaks",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "till-somebody-breaks-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/42AndcWrL9eGxDMp"
+    },
+    {
+     "id": "till-somebody-breaks-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/b5p0HtMqjZhIt8q0"
+    }
+   ],
+   "receta": "Rosa, la camarera de noche: en el centro nunca llueve hasta que alguien se rompe.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Same Blood",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "same-blood-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/C7By9YGtFl6dC27F"
+    },
+    {
+     "id": "same-blood-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/UuPzxl3fYAcmbTWx"
+    }
+   ],
+   "receta": "Padre ausente: misma sangre, dirección equivocada.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Don't Come Down Empty",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "dont-come-down-empty-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/lGSjabHT6geHs2sH"
+    },
+    {
+     "id": "dont-come-down-empty-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:32",
+     "url": "https://suno.com/s/DEGcYzZMg3MmsxA5"
+    }
+   ],
+   "receta": "Llorarle al cielo: no bajes con las manos vacías.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Let It Ring",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "let-it-ring-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/5ygsTTPBC0xLPAkh"
+    },
+    {
+     "id": "let-it-ring-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/w11fjvp2DzpeYK4G"
+    }
+   ],
+   "receta": "Miss Midnight llama a medianoche y él deja sonar el teléfono.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "The House Kept My Name",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "house-kept-my-name-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/Eg6uP8CTmiPJPDQR"
+    },
+    {
+     "id": "house-kept-my-name-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/9Ey3CWUIFKwftvYG"
+    }
+   ],
+   "receta": "Apostó todo al rojo y la casa se quedó con su nombre.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "If You Knew",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "if-you-knew-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/CZk1AN8Bzus9l8Ye"
+    },
+    {
+     "id": "if-you-knew-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/2IMmFlptSxWGufjg"
+    }
+   ],
+   "receta": "«Mamá, ¿me querrías si lo supieras?»",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Every Street",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "every-street-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/ikk9iEWv0XIx9PvL"
+    },
+    {
+     "id": "every-street-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/ok1F5v7jmwHaMgkc"
+    }
+   ],
+   "receta": "El barrio que lleva dentro de la cabeza, calle por calle.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Doing Fine",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "doing-fine-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/XhGjRJKVSWSVqNan"
+    },
+    {
+     "id": "doing-fine-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/lkkBY9suNt2qZN6w"
+    }
+   ],
+   "receta": "La máscara del «estoy bien»: pregúntame dos veces.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "A Hundred Beds",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "a-hundred-beds-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/CKqR7S3tAzGM3unA"
+    },
+    {
+     "id": "a-hundred-beds-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:28",
+     "url": "https://suno.com/s/UG6ZNueHeyGnIz14"
+    }
+   ],
+   "receta": "La camarera de un hotel que ha hecho cien camas donde murió el amor de otros.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Charge It to Me",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "charge-it-to-me-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/BEHVgICrsEZgMt36"
+    },
+    {
+     "id": "charge-it-to-me-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/UDVgw47F0LWvwwuP"
+    }
+   ],
+   "receta": "Paga de adulto, con intereses, lo que robó de adolescente.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Underlined Mercy",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "underlined-mercy-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/Y47w6UU0Y0K3YK5L"
+    },
+    {
+     "id": "underlined-mercy-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/qVI65TG5kXhLlHRW"
+    }
+   ],
+   "receta": "La Biblia de su abuelo: subrayó la misericordia, nunca la vergüenza.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Sign Mine",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "sign-mine-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/dTBldE02UVGm1nea"
+    },
+    {
+     "id": "sign-mine-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/qNYFbrIAvhPMdivr"
+    }
+   ],
+   "receta": "Firma con el nombre del personaje; el suyo ya no le sale.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "A Year in My Pocket",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "year-in-my-pocket-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/kGI3mPmlOlpML4xj"
+    },
+    {
+     "id": "year-in-my-pocket-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/DR6eWVUVZZki8IyT"
+    }
+   ],
+   "receta": "La ficha de un año limpio en el bolsillo contra la recaída.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Below That Note",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "below-that-note-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/OqYsbh7foibM5QsY"
+    },
+    {
+     "id": "below-that-note-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/wxqt9Q8qHLW8hD8V"
+    }
+   ],
+   "receta": "Pierde la nota alta famosa y se atreve a contar la verdad más abajo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Keep the Deposit",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "keep-the-deposit-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/WOcxDhSYa00YGbgF"
+    },
+    {
+     "id": "keep-the-deposit-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/wkrXVlr7laYiwJo4"
+    }
+   ],
+   "receta": "La ciudad se queda el depósito… y también los años.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Little Brother",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "little-brother-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/slRVkvX1QiuAr7zR"
+    },
+    {
+     "id": "little-brother-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:28",
+     "url": "https://suno.com/s/IP2QMhCKTtHJ7v2X"
+    }
+   ],
+   "receta": "A su hermano pequeño: no pidas lo que pedí yo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Call It Mine",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "call-it-mine-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/S8a6opTQ2nVOEkXT"
+    },
+    {
+     "id": "call-it-mine-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/S6OVB9E7L8nFiIt5"
+    }
+   ],
+   "receta": "Le dicen «demasiado»; él responde: lo llamo mío.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Love Me on a Tuesday",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "love-me-on-tuesday-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:28",
+     "url": "https://suno.com/s/7MgVS6H2Za0OOmJa"
+    },
+    {
+     "id": "love-me-on-tuesday-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/UWMorTkSbd1PKCyC"
+    }
+   ],
+   "receta": "Quiéreme un martes cualquiera, no solo cuando caigo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Still Stand Guard",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "still-stand-guard-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/yWYeCjQCcXSHhCkE"
+    },
+    {
+     "id": "still-stand-guard-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/MKaimv6E8MHdYwZ5"
+    }
+   ],
+   "receta": "Volvió de la guerra pero sigue de guardia en su propia casa.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "The Empty Chair",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "the-empty-chair-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/qsb1BjoncLHBnjPD"
+    },
+    {
+     "id": "the-empty-chair-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/EnwQkjrZQPvY9JhD"
+    }
+   ],
+   "receta": "Cada año, un vaso de más en la mesa para el amigo que no volvió.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Slower Tempo",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "slower-tempo-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/s8RKzXzFhplh0hW3"
+    },
+    {
+     "id": "slower-tempo-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/yn3xQvK2soeHIHSP"
+    }
+   ],
+   "receta": "El dolor del cuerpo le enseñó un tempo más lento, y el tempo le enseñó paz.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Sorry to the Graveyard",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "sorry-to-the-graveyard-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/PROfO6fFebZ7Xdx4"
+    },
+    {
+     "id": "sorry-to-the-graveyard-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/Sd1q05N0OXZyk783"
+    }
+   ],
+   "receta": "Llevó su perdón a quien ya no puede absolverlo y se absolvió él.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Dancing in the Smoke",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "dancing-in-the-smoke-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/HZM4OYZwin3ED2Vg"
+    },
+    {
+     "id": "dancing-in-the-smoke-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/RCQhqTwcSn2wWEo8"
+    }
+   ],
+   "receta": "Un cuarto arde por dentro y él baila en el humo.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Watch My Six",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "watch-my-six-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/ssZVi2PVTqXsICIrok"
+    },
+    {
+     "id": "watch-my-six-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:45",
+     "url": "https://suno.com/s/JtiF05ihTUk2zCzb"
+    }
+   ],
+   "receta": "Amigos que se cubren por turnos a las 3 a.m. por mensajes.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Woke Up in the Ashes",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "woke-up-in-the-ashes-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/Qz6uSPb6nOPFjCv8"
+    },
+    {
+     "id": "woke-up-in-the-ashes-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/7hnuz0AVXa3jSbai"
+    }
+   ],
+   "receta": "Despedido a los 40 tras 20 años; las manos siempre fueron suyas.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Lightning First",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "lightning-first-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/ezTXIJLbgULkFI7nok"
+    },
+    {
+     "id": "lightning-first-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:29",
+     "url": "https://suno.com/s/rGIFROD8fJRaESpM"
+    }
+   ],
+   "receta": "Ella era relámpago mucho antes del trueno del reconocimiento.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Where the Blue Goes",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "where-the-blue-goes-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:27",
+     "url": "https://suno.com/s/ANsheJSJcU0iKsU7"
+    },
+    {
+     "id": "where-the-blue-goes-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:31",
+     "url": "https://suno.com/s/wkzGyk2kjE8l9s9H"
+    }
+   ],
+   "receta": "La cuidadora invisible: sobre negro, el azul no se ve.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  },
+  {
+   "grupo": "Gets Louder",
+   "publicada": false,
+   "tomas": [
+    {
+     "id": "gets-louder-t1",
+     "etiqueta": "Toma 1",
+     "duracion": "2:28",
+     "url": "https://suno.com/s/mxObtdqTCzQZdRZW"
+    },
+    {
+     "id": "gets-louder-t2",
+     "etiqueta": "Toma 2",
+     "duracion": "2:30",
+     "url": "https://suno.com/s/3EouqmRGrgV8JFDe"
+    }
+   ],
+   "receta": "El monstruo crece si lo callas; lo nombra en la cena y se encoge.",
+   "meta": "Generada en Suno el 14/11/2026 · v6 · Persona «Voz Dark ML» · Private · sin descargar"
+  }
+ ]
+}

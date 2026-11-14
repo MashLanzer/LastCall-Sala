@@ -1,0 +1,667 @@
+{
+ "_notas": {},
+ "sleep-tight-t1": {
+  "like": true,
+  "dislike": false,
+  "produccion": true,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-t3": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-t4": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-fast-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-fast-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-fast-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-fast-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-fast-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-fast-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-v2-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-v2-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-v2-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-v2-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-v2-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-v2-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-stellar-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-stellar-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-stellar-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-stellar-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-stellar-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-stellar-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-stellar-full-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-stellar-full-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-stellar-full-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-stellar-full-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-stellar-full-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-stellar-full-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-stellar-fullv2-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "2am-stellar-fullv2-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-stellar-fullv2-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "wide-awake-stellar-fullv2-t2": {
+  "like": true,
+  "dislike": false,
+  "produccion": true,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-stellar-fullv2-t1": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-stellar-fullv2-t2": {
+  "like": false,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "static-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "static-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "porcelain-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "porcelain-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "ultraviolet-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "ultraviolet-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-nueva-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "red-moon-nueva-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "on-read-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "on-read-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "on-read-reintento-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "on-read-reintento-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "plastic-halo-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "plastic-halo-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "paper-mask-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "paper-mask-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "10-minutes-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "10-minutes-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "static-nueva-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "static-nueva-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "porcelain-nueva-t1": {
+  "like": true,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "porcelain-nueva-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "voltage-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "voltage-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "porcelain-voz-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "porcelain-voz-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "my-jacket-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "my-jacket-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "tag-youre-it-t1": {
+  "like": true,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "tag-youre-it-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "second-skin-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "second-skin-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "cheap-perfume-t1": {
+  "like": true,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "cheap-perfume-t2": {
+  "like": true,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "sugar-venom-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "sugar-venom-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "half-past-you-t1": {
+  "like": true,
+  "dislike": false,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "half-past-you-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "second-skin-v2-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "second-skin-v2-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "your-side-of-town-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "your-side-of-town-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "voicemail-t1": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ },
+ "voicemail-t2": {
+  "like": false,
+  "dislike": true,
+  "produccion": false,
+  "escuchada": true,
+  "nota": "",
+  "ts": "2026-11-14T14:14:29Z"
+ }
+}

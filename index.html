@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0b">
+<title>LAST CALL — Sala de escucha</title>
+<meta name="description" content="Sala de escucha privada de LAST CALL: las tomas de Suno y las marcas de Brayan.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="wrap">
+  <header class="pt">
+    <h1 class="logo">LAST <span class="accent">CALL</span></h1>
+    <p class="sub">dark pop · producido por Mash Lanzer</p>
+
+    <div class="band">
+      <p class="band-main">Cuenta Suno Pro · Créditos: 1.620 · Descargas restantes: 4 · Próxima factura: 10 dic 2026</p>
+      <p class="band-date">Actualizado el 14 nov 2026</p>
+    </div>
+
+    <p class="marks-line" id="marksLine">Cargando tus marcas…</p>
+    <div class="progress-row" id="progressRow" hidden>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+      <p class="progress-text" id="progressText"></p>
+    </div>
+    <p class="how">Así funciona: lo que marcas «Me gusta» va a su lista; lo que marcas «A producción», a la suya (puede estar en las dos a la vez); y lo que ya escuchaste sin dar «Me gusta» sale de las listas.</p>
+
+    <div class="sync-bar">
+      <p class="sync-status"><span class="sync-dot" id="syncDot"></span><span id="syncText">Guardado en este navegador</span></p>
+      <div class="sync-actions">
+        <button type="button" class="btn-ghost" id="btnSync">Conectar sincronización</button>
+        <button type="button" class="btn-ghost" id="btnExport">Exportar</button>
+        <button type="button" class="btn-ghost" id="btnImport">Importar</button>
+        <input type="file" id="fileImport" accept="application/json,.json" hidden>
+      </div>
+    </div>
+
+    <div class="search-row">
+      <input type="search" id="search" placeholder="Buscar por título…" autocomplete="off" aria-label="Buscar por título">
+    </div>
+
+    <nav class="tabs" id="tabs" aria-label="Vistas de la sala"></nav>
+  </header>
+
+  <div id="errorBox" class="error-box" hidden>
+    <p>No se pudo cargar la sala. Revisa tu conexión y vuelve a intentarlo.</p>
+    <button type="button" class="btn-accent" id="btnRetry">Reintentar</button>
+  </div>
+
+  <div id="content"></div>
+
+  <footer class="foot">
+    <p>Sala privada de LAST CALL. Tus marcas se guardan en este navegador y, con la sincronización conectada, también en el repositorio, donde Zora las lee para aprender.</p>
+  </footer>
+</main>
+
+<dialog id="syncDialog" class="dialog">
+  <form method="dialog" class="dialog-box" id="syncForm">
+    <h2>Conectar sincronización</h2>
+    <p class="dialog-text">Pega tu token de GitHub (PAT) para que tus marcas se guarden también en el repositorio <strong>MashLanzer/LastCall-Sala</strong> y Zora pueda leerlas. El token se guarda <strong>solo en este navegador</strong> (localStorage): nunca sale de aquí salvo para hablar con GitHub, y no queda escrito en ningún archivo de la web.</p>
+    <label class="dialog-label" for="tokenInput">Token de GitHub</label>
+    <input type="password" id="tokenInput" placeholder="ghp_…" autocomplete="off">
+    <p class="dialog-error" id="tokenError" hidden></p>
+    <div class="dialog-actions">
+      <button type="button" class="btn-ghost" id="btnDisconnect" hidden>Desconectar</button>
+      <span class="dialog-spacer"></span>
+      <button type="button" class="btn-ghost" id="btnCancelSync">Cancelar</button>
+      <button type="submit" class="btn-accent" id="btnSaveSync">Guardar y sincronizar</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="script.js" defer></script>
+</body>
+</html>
